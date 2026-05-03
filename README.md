@@ -1,4 +1,4 @@
-# Lockpicking-Practice-Lock
-3D-printable transparent practice padlock for learning lockpicking. Features a visible 5-pin mechanism, rotating plug, and removable pin cartridges for easy rekeying. Includes beginner tools stored on the back. Designed for workshops and education, with adjustable difficulty via pin height changes.
+# Lockpicking Practice Lock
+Transparent Practice Padlock which can be printed using a 3D printer and is useful for practicing lock picking. It uses a transparent 5 pin mechanism, rotary plug, and exchangeable pin cylinders that make it easier to re key. Tools needed by a beginner are provided in the back of the padlock.
 
-WARNING remember to add supports or print may fail
+Remark: Don’t forget to add supports in your print project.
